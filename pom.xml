@@ -14,7 +14,7 @@
 	<organization>
 		<name>Landmark Technogies</name>
 		<url>http://landmarktechnologies.com/</url>
-	</organization
+	</organization>
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
